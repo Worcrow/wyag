@@ -3,4 +3,4 @@
 import libwyag
 
 
-libwayg.main()
+libwyag.main()
